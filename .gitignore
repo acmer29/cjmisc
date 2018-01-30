@@ -31,5 +31,10 @@
 *.out
 *.app
 
+# Swap Files
+*.swp
+
 # YCM Configuration Files
+.ycm_extra_conf.py
 .ycm_extra_conf.py[cod]
+
