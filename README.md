@@ -1,2 +1,2 @@
 # cjmisc
-A miscellaneous library for C++
+A miscellaneous library for modern C++
